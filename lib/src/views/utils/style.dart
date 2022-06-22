@@ -18,7 +18,7 @@ Map<int, Color> color =
 // Color PAlete
 final MaterialColor button = const Color.fromARGB(255, 0, 122, 244).toMaterialColor();
 final MaterialColor lessfaintblue = const Color.fromRGBO(93, 124, 166, 65).toMaterialColor();
-final MaterialColor appbar = const Color.fromRGBO(0, 0, 0, 1).toMaterialColor();
+final MaterialColor appbar = const Color.fromRGBO(38,94,65,1).toMaterialColor();
 final MaterialColor grey1 = const Color.fromRGBO(204, 204, 204, 80).toMaterialColor();
 final MaterialColor grey2 = const Color.fromRGBO(163, 163, 163, 80).toMaterialColor();
 final MaterialColor faintBlue = const Color.fromRGBO(197, 208, 217, 85).toMaterialColor();
