@@ -210,7 +210,7 @@ Widget leftSide(BuildContext context) {
             Container(
               padding: EdgeInsets.only(top: 5.0, bottom: 5.0),
               child: Text(
-                "Let's get you set up",
+                "Let's get you set up....",
                 style: TextStyle(
                     fontSize: 32.0,
                     fontWeight: FontWeight.w900,
